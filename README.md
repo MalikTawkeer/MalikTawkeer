@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **maliktow012@gmail.com**
 
-- 📄 Know about my experiences [http://maliktowkeer.42web.io/assets/Malik_Resume.pdf](http://maliktowkeer.42web.io/assets/Malik_Resume.pdf)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
