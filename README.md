@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Ecommerce mobile application**
 
-- 🔭 I’m currently working on **stay finder backend**
+- 🔭 I’m currently working on **..... backend**
 
 - 🌱 I’m currently learning **New things**
 
