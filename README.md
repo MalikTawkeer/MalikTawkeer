@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **New things**
 
 - 👯 I’m looking to collaborate on **Doctor consultant app**
-- 👯 I’m looking to collaborate on **Stay-Finder (search.. pgs, rented rooms, hostels and hotels etc easily) **
 
 - 👨‍💻 All of my projects are available at [(https://malik-towkeer-portfolio.onrender.com/)]
 
