@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm malik towkeer ul islam</h1>
-<h3 align="center">A passionate  Full Stack developer || React Native || Mobile App developer from Kashmir.</h3>
+<h3 align="center">A passionate  Full Stack developer || React Native Developer || Mobile App developer from Kashmir.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maliktawkeer&label=Profile%20views&color=0e75b6&style=flat" alt="maliktawkeer" /> </p>
 <p align="left"> <a href="https://twitter.com/maliktawkeer" target="blank"><img src="https://img.shields.io/twitter/follow/maliktawkeer?logo=twitter&style=for-the-badge" alt="maliktawkeer" /></a> </p>
