@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on **Ecommerce Web app**
   
 - 🔭 I’m currently working on **..... both Fronend and Backend**
-
 - 🌱 I’m currently learning **New things**
 
 - 👯 I’m looking to collaborate on **Doctor consultant app**
