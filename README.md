@@ -3,7 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maliktawkeer&label=Profile%20views&color=0e75b6&style=flat" alt="maliktawkeer" /> </p>
 <p align="left"> <a href="https://twitter.com/maliktawkeer" target="blank"><img src="https://img.shields.io/twitter/follow/maliktawkeer?logo=twitter&style=for-the-badge" alt="maliktawkeer" /></a> </p>
 
-
 - 🔭 I’m currently working on **Ecommerce Web app**
   
 - 🔭 I’m currently working on **..... both Fronend and Backend**
