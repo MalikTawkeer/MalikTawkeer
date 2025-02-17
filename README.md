@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on **..... both Fronend and Backend**
 - 🌱 I’m currently learning **New things**
 - 👯 I’m looking to collaborate on **Doctor consultant app**
-
 - 👨‍💻 All of my projects are available at [(https://malik-towkeer-portfolio.onrender.com/)]
 
 - 📝 I regularly write articles on [https://blog-with-reactjs-appwrite2.vercel.app/](https://blog-with-reactjs-appwrite2.vercel.app/)
