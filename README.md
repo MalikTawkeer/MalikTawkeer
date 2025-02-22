@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://twitter.com/maliktawkeer" target="blank"><img src="https://img.shields.io/twitter/follow/maliktawkeer?logo=twitter&style=for-the-badge" alt="maliktawkeer" /></a> </p>
 - 🔭 I’m currently working on my personal mobile app
 - 🔭 I’m currently working on **..... both Fronend and Backend**
-
 - 🌱 I’m currently learning **New things**
 - 👯 I’m looking to collaborate on **Doctor consultant app**
 - 👨‍💻 All of my projects are available at [(https://malik-towkeer-portfolio.onrender.com/)]
